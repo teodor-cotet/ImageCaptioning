@@ -9,9 +9,9 @@ No Beam search is yet implemented.
 You can download the weights [here](https://github.com/yashk2810/Image-Captioning/raw/master/weights/time_inceptionV3_2.8876_loss.h5)
 
 # Examples
-!["epoch1"](https://bitbucket.org/teodor_cotet/imagecaptioning/raw/36670e03ded9fc9b0d5586c08d48faf74b46ef0c/results/photos/epoch1.PNG)
-!["epoch7"](https://bitbucket.org/teodor_cotet/imagecaptioning/raw/36670e03ded9fc9b0d5586c08d48faf74b46ef0c/results/photos/epoch7.PNG)
-!["epoch12"](https://bitbucket.org/teodor_cotet/imagecaptioning/raw/36670e03ded9fc9b0d5586c08d48faf74b46ef0c/results/photos/epoch12.PNG)
+!["epoch1"](https://bitbucket.org/teodor_cotet/imagecaptioning/raw/758986caaa054ec7437f9bd10f2c9c0e2f5071ec/results/photos/epoch1.PNG)
+!["epoch7"](https://bitbucket.org/teodor_cotet/imagecaptioning/raw/758986caaa054ec7437f9bd10f2c9c0e2f5071ec/results/photos/epoch7.PNG)
+!["epoch12"](https://bitbucket.org/teodor_cotet/imagecaptioning/raw/758986caaa054ec7437f9bd10f2c9c0e2f5071ec/results/photos/epoch12.PNG)
 
 # Dependencies
 
